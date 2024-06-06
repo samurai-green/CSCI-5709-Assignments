@@ -12,6 +12,5 @@
 - Assignment Repo Link (Gitlab) - https://git.cs.dal.ca/siddharthb/CSCI-5709-Assignments
 
 ### Assignments
-```
-1.
-```
+
+1. [Assignment 1](./Assignment-1/)
