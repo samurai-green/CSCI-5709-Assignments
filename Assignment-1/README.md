@@ -21,4 +21,4 @@ Satisfied with his entry, User saves it and closes the app, feeling
 relieved to have captured his emotions for the day.
 ```
 ## Wireframe
-[journal create wireframe](./wireframe.png)
+![journal create wireframe](./wireframe.png)
